@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
         // Si lo lees eres puto
+    
+        // Para putos, nada mas Román
 
 }
 
